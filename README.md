@@ -1,0 +1,7 @@
+# Heavycamp
+echo "# Heavycamp" >> README.md
+git init
+git add README.md
+git commit -m "first commit"
+git remote add origin https://github.com/Gabebell35/Heavycamp.git
+git push -u origin master
